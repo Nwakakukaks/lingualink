@@ -16,6 +16,9 @@ LinguaLink represents a paradigm shift in language learning, leveraging blockcha
 ## Particle Auth and Social Logins
 LinguaLink integrates Particle Auth, offering social logins from Google, Twitter, and other platforms. This seamless onboarding experience bridges the gap between web2 and web3 environments, inviting millions to explore the transformative potential of blockchain in language learning.
 
+## Covalent Goldrush kit
+Lingualink integrates covalent goldrush kit, offering the users the opportunity to view their token balances across different chains and also all their NFTs badges earned for successful participation in test and mentorship sesssions. 
+
 ## How it Works
 - **Mentorship System:** The LinguaMentor smart contract enables users to register as mentors or mentees. Mentors can set session fees, and mentees can request mentorship by paying these fees using USDC or another specified ERC-20 token. The contract facilitates the tracking of mentorship requests, allowing mentors to accept or reject them accordingly.
 - **Token Transactions:** Token transactions within the smart contract ensure that mentees have approved the contract to spend their tokens, thus enabling seamless payment for mentorship sessions. Upon acceptance of a mentorship request, a portion of the session fee is transferred to the mentor, incentivizing participation and contribution to the platform.
