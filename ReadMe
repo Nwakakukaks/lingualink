@@ -16,6 +16,9 @@ LinguaLink represents a paradigm shift in language learning, leveraging blockcha
 ## Particle Auth and Social Logins
 LinguaLink integrates Particle Auth, offering social logins from Google, Twitter, and other platforms. This seamless onboarding experience bridges the gap between web2 and web3 environments, inviting millions to explore the transformative potential of blockchain in language learning.
 
+## Chainlink CCIP
+Lingualink leverages chainlinks cross chain protocol CCIP to achieve interoperabiltiy across different chains, This feature enables the transfer of session fees to specified destination chains, facilitating seamless transactions across different blockchain networks. 
+
 ## Covalent Goldrush kit
 Lingualink integrates covalent goldrush kit, offering the users the opportunity to view their token balances across different chains and also all their NFTs badges earned for successful participation in test and mentorship sesssions. 
 
